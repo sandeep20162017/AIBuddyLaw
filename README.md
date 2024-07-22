@@ -1,0 +1,2 @@
+# AIBuddyLaw
+AI Buddy Law
